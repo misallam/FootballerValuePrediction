@@ -1,0 +1,8 @@
+Mean Absolute Error is 478.0
+Mean Squared Error is 1183901.39
+Root Mean Squared Error is 1088.07
+
+Model Accuracy is 97.0%
+
+Best Parameters:
+{'alpha': 10}
