@@ -51,4 +51,4 @@ if st.button('Predict Player Value'):
     }
     
     prediction = predict_value(features)
-    st.subheader(f'Player Value is Nearly: {prediction:,.2f} €')
+    st.subheader(f'Player Value is Nearly: {prediction:,.2f} $')
