@@ -48,8 +48,7 @@ The project includes a variety of visualizations to explore the dataset's charac
 - Skill moves distribution among players
 - Club representation in the dataset
 
-These visualizations are generated using `matplotlib` and `seaborn` libraries.
-
 # Advanced Statistics & Normalization
-![Value Skwed Distribution](https://github.com/misallam/FootballerValuePrediction/blob/main/Value%20Normal%20Distribution.png)
-![Value Normal Distribution](https://github.com/misallam/FootballerValuePrediction/blob/main/Value%20Skwed%20Distribution.png)
+![Value Skwed Distribution](https://github.com/misallam/FootballerValuePrediction/blob/main/Value%20Normal%20Distribution.png) ![Value Normal Distribution](https://github.com/misallam/FootballerValuePrediction/blob/main/Value%20Skwed%20Distribution.png)
+
+The previous visualizations are generated using `matplotlib` and `seaborn` libraries.
